@@ -71,9 +71,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=darshita2110&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=darshita2110&layout=compact&theme=tokyonight)
+![Darshita's Profile](./github-stats.svg)
+ 
+![Tech Stack](./top-langs.svg)
 
 </div>
 
