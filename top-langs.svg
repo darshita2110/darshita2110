@@ -1,0 +1,44 @@
+<svg width="360" height="185" viewBox="0 0 360 185" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d08"/>
+      <stop offset="100%" style="stop-color:#131310"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="360" height="185" rx="12" fill="url(#bg2)"/>
+  <rect x="0.5" y="0.5" width="359" height="184" rx="11.5" fill="none" stroke="#2a2a20" stroke-width="1"/>
+
+  <rect x="20" y="18" width="32" height="2" rx="1" fill="#c9a84c"/>
+
+  <text x="20" y="46" font-family="Georgia, serif" font-size="15" font-weight="700" fill="#c9a84c" letter-spacing="0.5">Tech Stack</text>
+  <line x1="20" y1="55" x2="340" y2="55" stroke="#2a2a20" stroke-width="1"/>
+
+  <!-- Dart -->
+  <circle cx="30" cy="74" r="5" fill="#00B4AB"/>
+  <text x="42" y="79" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e8e0d0">Dart / Flutter</text>
+  <rect x="160" y="70" width="180" height="6" rx="3" fill="#1a1a12"/>
+  <rect x="160" y="70" width="130" height="6" rx="3" fill="#00B4AB"/>
+  <text x="298" y="79" font-family="'Segoe UI', sans-serif" font-size="11" fill="#888">primary</text>
+
+  <!-- TypeScript -->
+  <circle cx="30" cy="101" r="5" fill="#3178C6"/>
+  <text x="42" y="106" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e8e0d0">TypeScript / JS</text>
+  <rect x="160" y="97" width="180" height="6" rx="3" fill="#1a1a12"/>
+  <rect x="160" y="97" width="80" height="6" rx="3" fill="#3178C6"/>
+  <text x="248" y="106" font-family="'Segoe UI', sans-serif" font-size="11" fill="#888">web</text>
+
+  <!-- Python -->
+  <circle cx="30" cy="128" r="5" fill="#3776AB"/>
+  <text x="42" y="133" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e8e0d0">Python</text>
+  <rect x="160" y="124" width="180" height="6" rx="3" fill="#1a1a12"/>
+  <rect x="160" y="124" width="55" height="6" rx="3" fill="#3776AB"/>
+  <text x="223" y="133" font-family="'Segoe UI', sans-serif" font-size="11" fill="#888">AI/ML</text>
+
+  <!-- C++ / Java -->
+  <circle cx="30" cy="155" r="5" fill="#555"/>
+  <text x="42" y="160" font-family="'Segoe UI', sans-serif" font-size="12" fill="#e8e0d0">C++ / Java / SQL</text>
+  <rect x="160" y="151" width="180" height="6" rx="3" fill="#1a1a12"/>
+  <rect x="160" y="151" width="30" height="6" rx="3" fill="#555"/>
+  <text x="198" y="160" font-family="'Segoe UI', sans-serif" font-size="11" fill="#888">systems</text>
+</svg>
