@@ -71,9 +71,9 @@
 
 <div align="center">
 
-![Darshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshita2110&show_icons=true&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=e8e0d0&bg_color=0d0d08)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=darshita2110&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshita2110&layout=compact&hide_border=true&title_color=c9a84c&text_color=e8e0d0&bg_color=0d0d08)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=darshita2110&layout=compact&theme=tokyonight)
 
 </div>
 
