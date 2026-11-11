@@ -5,9 +5,9 @@
 **Mobile App Developer Intern · Full-Stack · AI & Data Science**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darshitabansal.netlify.app-c9a84c?style=for-the-badge&labelColor=1a1a14&logo=safari&logoColor=white)](https://darshitabansal.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-darshita--bansal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshita-bansal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darshita--bansal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshita-bansal-842007324)
 [![CodeChef](https://img.shields.io/badge/CodeChef-3★_·_1609_Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/darshita_b21)
-[![LeetCode](https://img.shields.io/badge/LeetCode-150+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/darshita_bansal21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200+_Solved_·_1507-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/darshita_bansal21)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshitabansal211005@gmail.com)
 
 </div>
@@ -16,10 +16,10 @@
 
 ### 👩‍💻 About Me
 
-B.Tech **AI & Data Science** student at **IIIT Raichur** (CGPA **8.34**), currently interning as a **Mobile App Developer at Instabroad Medical** — building a cross-platform Flutter app from architecture to deployment. I specialise in full-stack development, distributed systems, and Generative AI integrations.
+B.Tech **AI & Data Science** student at **IIIT Raichur** (CGPA **8.34**), currently interning as a **Mobile App Developer at Instabroad Medical**, where I architected a cross-platform Flutter app from scratch. I work across full-stack development, networking & distributed systems, and Generative AI integrations.
 
-- 📱 **Mobile App Developer Intern** @ Instabroad Medical — Flutter, Firebase (Auth, Firestore, Cloud Functions), iOS & Android
-- 🌐 **Website Team Member** @ IIIT Raichur — achieved **40% faster payload** delivery & **35% lower API latency**
+- 📱 **Mobile App Developer Intern** @ Instabroad Medical — ~14-screen Flutter app for iOS & Android, role-based access via Firebase Auth custom claims + Firestore rules, **~35% fewer Firestore reads** via pagination & offline-first caching
+- 🌐 **Website Team** @ IIIT Raichur Official Website (Nov 2024 – Sept 2025) — **40% faster** placement-module loads (Node.js SSR code-splitting), **35% lower p95 API latency** (PostgreSQL composite indexes)
 - 🛠 **Coordinator** @ DevX Club — CI/CD pipelines, system design mentorship for **50+ developers**
 - 🏓 **Silver Medalist** — Inter-IIIT Sports Meet 2024-25 (Girls Table Tennis Captain)
 - 📍 Raichur, Karnataka · Available for Opportunities
@@ -31,16 +31,21 @@ B.Tech **AI & Data Science** student at **IIIT Raichur** (CGPA **8.34**), curren
 #### [CrowdBuddy — Real-Time Crowd Management Platform](https://github.com/darshita2110/Crowd_Management_System)
 > `Flutter` `Firebase/Firestore` `Python` `WebSockets` `REST APIs` `Provider/Bloc`
 
-- Event-driven Firestore architecture sustaining **1,000+ concurrent sessions** with low-latency emergency alerts
-- Thread-safe REST API polling with **O(log n) priority queues** for non-blocking alert dispatch
-- Python microservices for real-time crowd analytics streamed via WebSockets to Flutter frontend
+- Real-time crowd-analytics pipeline linking a Flutter (Provider/Bloc) client with Python microservices over WebSockets and an event-driven Firestore backend for low-latency alerts
+- Non-blocking, thread-safe alert dispatch using **O(log n) priority queues** to prioritise emergency events under concurrency
 
 #### [CultureConnect — AI-Powered Heritage Travel Ecosystem](https://github.com/darshita2110/CultureConnect)
 > `React/Next.js` `FastAPI` `Gemini LLM API` `MongoDB` `SQL` `Google Maps API`
 
-- FastAPI + Gemini LLM backend for agentic itinerary generation with personalised AI workflows
-- MongoDB + SQL hybrid with **O(1) geospatial lookups** via optimised indexing & Google Maps integration
-- Offline-first data-caching on Next.js cutting redundant API calls by **~60%**
+- FastAPI backend orchestrating multi-step Gemini LLM workflows for personalised itineraries
+- MongoDB **2dsphere indexing** for O(log n) nearby-attraction lookups via the Google Maps API
+- Client-side caching & offline-first sync in React/Next.js cutting redundant API calls by **~60%**
+
+#### [ChunkSwarm — Peer-to-Peer Chunk-Based File Sharing](https://github.com/darshita2110/chunkswarm)
+> `Python` `TCP/UDP Sockets` `Multithreading` `P2P Networking`
+
+- Splits files into chunks and downloads them in parallel from multiple peers over TCP, with multithreaded peer handling
+- Per-chunk **SHA-256 integrity checks** with automatic re-requests for corrupted or missing chunks, ensuring reliable reassembly
 
 ---
 
@@ -52,6 +57,7 @@ B.Tech **AI & Data Science** student at **IIIT Raichur** (CGPA **8.34**), curren
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -84,6 +90,7 @@ B.Tech **AI & Data Science** student at **IIIT Raichur** (CGPA **8.34**), curren
 **AI & Dev**
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -107,7 +114,8 @@ B.Tech **AI & Data Science** student at **IIIT Raichur** (CGPA **8.34**), curren
 | | |
 |---|---|
 | 🏅 **CodeChef 3★** | Max rating **1609** · **300+ problems** solved · Silver Problem-Solver badge — [`darshita_b21`](https://www.codechef.com/users/darshita_b21) |
-| 💻 **LeetCode** | **150+ problems** across DP, binary search & graphs — [`darshita_bansal21`](https://leetcode.com/darshita_bansal21) |
+| 💻 **LeetCode** | **200+ problems** · 13 contests (rating **1507**) · 100 Days Badge 2026 — [`darshita_bansal21`](https://leetcode.com/darshita_bansal21) |
+| 🐞 **Fastest Debugger** | Won the debugging round at Code Conflux Showdown 2026 (college tech fest) |
 | 🥈 **Silver Medal** | Inter-IIIT Sports Meet 2024-25 — Girls Table Tennis Captain |
 | 🎖️ **NSO Secretary** | Organised Mass Run for **300+ students**; secured institutional sports funding |
 
